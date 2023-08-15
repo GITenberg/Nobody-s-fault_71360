@@ -1,5 +1,8 @@
 _repo: Nobody-s-fault_71360
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71360-h/images/cover.jpg
 creator:
   author:
     agent_name: Syrett, Netta
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6244
     wikipedia: https://en.wikipedia.org/wiki/Netta_Syrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71360#Nobody-s-fault
 gutenberg_issued: '2023-08-07'
 identifiers:
   gutenberg: '71360'
